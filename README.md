@@ -85,9 +85,9 @@
 2. 点击右下角「优惠券」
 3. 粘贴优惠码 → 点「确定」
 
-优惠码说明可对照 chatgpt-plus 站内通知截图（两站码一致）：
+### 站内优惠码通知截图
 
-![chatgpt-plus / kelaode 共用双十一优惠码](https://upload.maynor1024.live/file/1793519640054_chatgpt-plus-promo.png)
+![kelaode 双十一优惠码通知](https://upload.maynor1024.live/file/1793543356427_kelaode-announcement.png)
 
 ### 公开商店定价页截图（标价示意，贴券后结算）
 
